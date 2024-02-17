@@ -3,7 +3,7 @@
 [![Unit Tests](https://github.com/t1u4n/snorkel-with-turtle/actions/workflows/unit_test.yaml/badge.svg?branch=main)](https://github.com/t1u4n/snorkel-with-turtle/actions/workflows/unit_test.yaml)
 [![Update Contributors](https://github.com/t1u4n/snorkel-with-turtle/actions/workflows/update_contributor.yaml/badge.svg)](https://github.com/t1u4n/snorkel-with-turtle/actions/workflows/update_contributor.yaml)
 
-author: [tian23@illinois.edu](mailto:tian23@illinois.edu)
+"Snorkel with Turtle" is a real-time labeling system based on Snorkel. By introducing drift detector and labeling function library, we can allow you label unlabeled stream data in real-time robustly with minimum human intervention.
 
 ## Contributors
 
