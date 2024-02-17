@@ -30,6 +30,5 @@ class BaseLoader(ABC):
         """
         self.logger.info("Starting data loading process.")
         async for data in data_generator:
-            print(self.write_data)
             await self.write_data(data)
         self.logger.info("Data loading process completed.")
