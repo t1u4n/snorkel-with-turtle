@@ -1,5 +1,8 @@
 # Snorkel w/ Turtle
 
+[![Unit Tests](https://github.com/t1u4n/snorkel-with-turtle/actions/workflows/unit_test.yaml/badge.svg?branch=main)](https://github.com/t1u4n/snorkel-with-turtle/actions/workflows/unit_test.yaml)
+[![Update Contributors](https://github.com/t1u4n/snorkel-with-turtle/actions/workflows/update_contributor.yaml/badge.svg)](https://github.com/t1u4n/snorkel-with-turtle/actions/workflows/update_contributor.yaml)
+
 author: [tian23@illinois.edu](mailto:tian23@illinois.edu)
 
 ## Contributors
